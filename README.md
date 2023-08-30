@@ -1,6 +1,6 @@
-# Machine Learning Project: Feature Engineering
+# Machine Learning A+ Project: Feature Engineering
 
-Welcome to this A+ project dedicated to Feature Engineering in Machine Learning. The overarching goal of this endeavor is to engineer potent features for predicting traffic volume, leveraging data available from the preceding day.
+Welcome to this project dedicated to Feature Engineering in Machine Learning. The overarching goal of this endeavor is to engineer potent features for predicting traffic volume, leveraging data available from the preceding day.
 
 ## Project Overview
 
