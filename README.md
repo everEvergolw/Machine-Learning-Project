@@ -37,7 +37,4 @@ To immerse yourself in the project's methodologies, techniques, and findings, gr
 
 Feature engineering stands as a linchpin in machine learning, holding the power to sway model performance significantly. This project underscores its pivotal role, especially in the domain of time-series predictions like traffic volume forecasting.
 
----
-
-For a comprehensive understanding, and to satiate any curiosities or discussions, the accompanying documentation serves as a reservoir of knowledge. Additionally, feel free to connect directly for deeper insights or collaboration opportunities.
 
